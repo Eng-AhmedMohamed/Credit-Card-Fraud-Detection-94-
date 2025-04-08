@@ -1,3 +1,6 @@
+***Please Run code in (colab or jupyter notebook or kaggle) to see all outputs of cells***
+
+
 Credit Card Fraud Detection (94%)
 
 This project uses machine learning to detect fraudulent credit card transactions from a highly imbalanced dataset. It includes data cleaning, exploratory data analysis, feature engineering, and classification models with resampling techniques to handle imbalance.
